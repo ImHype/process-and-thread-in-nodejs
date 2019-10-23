@@ -1,0 +1,14 @@
+{
+  "name": "graceful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ps-tree": "^1.2.0"
+  }
+}
